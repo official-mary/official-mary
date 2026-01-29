@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me
 
-<!--
-**official-mary/official-mary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT professional with a strong focus on Cloud Computing and DevOps. I have hands-on experience across Multi Cloud (AWS, Azure) | System Admin | Technical Support| Helping Teams Build Scalable and Secure Infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Cloud:** AWS, Azure
+
+**Containers:** Docker, Kubernetes
+
+**Terraform**
+
+**DevOps:** Github, Github Actions, NGINX
+
+**Systems:** Linux
+
+---
+
+## Current Focus
+
+- Building and deploying scalable cloud infrastructure using AWS and Azure
+- Implementing CI/CD pipelines with GitHub Actions for automated deployments
+- Containerizing applications with Docker and orchestrating them with Kubernetes
+- Automating infrastructure provisioning and management using Terraform
+- Enhancing system security and performance across Linux-based environments
